@@ -1,5 +1,5 @@
 # A Simple REST API
-a simple rest API with express
+A simple rest API with express
 
 ### Runing the app
 
